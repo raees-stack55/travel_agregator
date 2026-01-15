@@ -10,8 +10,8 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      // Frontend source lives in ./client/src
-      "@": path.resolve(__dirname, "client/src"),
+      "@": path.resolve(__dirname, "src"),
+      "@assets": path.resolve(__dirname, "../attached_assets"),
     },
   },
   build: {
@@ -19,3 +19,4 @@ export default defineConfig({
     emptyOutDir: true,
   },
 });
+
