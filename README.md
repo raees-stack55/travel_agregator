@@ -356,6 +356,12 @@ MIT License
 Feel free to submit issues or pull requests if you'd like to contribute!
 
 ---
+<img width="3302" height="1876" alt="Attached_image" src="https://github.com/user-attachments/assets/a0a176d9-52a8-464e-b1a2-f5fc159e201e" />
+
+<img width="3286" height="2768" alt="Attached_image1" src="https://github.com/user-attachments/assets/1cf9a034-d2e5-4100-92b0-8857a1eac870" />
+
+
+<img width="3266" height="3806" alt="Attached_image3" src="https://github.com/user-attachments/assets/38130037-e999-40bd-a0b8-a47dab1476f0" />
 
 **Note**: This project was built as a demonstration of aggregating multiple data sources to provide actionable travel insights. Some signals use mock/heuristic data where reliable free APIs are not available.
 
